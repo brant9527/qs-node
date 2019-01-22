@@ -7,7 +7,7 @@ history({
     index: '/static/index.html'
 });
 app.use(express.static('static'))
-app.listen(8080,'0.0.0.0',function(){
+app.listen(80,'0.0.0.0',function(){
     console.log(1)
 })
 
