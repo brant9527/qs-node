@@ -7,7 +7,8 @@ history({
     index: '/static/index.html'
 });
 app.use(express.static('static'))
+app.use(express.static('imgs'))
 app.listen(80,'0.0.0.0',function(){
-    console.log(1)
+    console.log('链接成功')
 })
 
