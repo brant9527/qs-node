@@ -1,2 +1,0 @@
-webpackJsonp([15],{nplR:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var l={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("最新动态")])},staticRenderFns:[]},r=t("VU/8")(null,l,!1,null,null,null);n.default=r.exports}});
-//# sourceMappingURL=15.5ce1c9faf37a1f638b73.js.map
